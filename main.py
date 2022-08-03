@@ -25,7 +25,7 @@ def get_tiktok_video_url_from_link(link):
     }
     headers = {
         'x-rapidapi-host': "tiktok-info.p.rapidapi.com",
-        'x-rapidapi-key': "5d855e7e75mshb9d71462a29a6cap19f201jsnfbb1233c9031"
+        'x-rapidapi-key': ""
     }
 
     ### Get your Free TikTok API from https://rapidapi.com/TerminalWarlord/api/tiktok-info/
